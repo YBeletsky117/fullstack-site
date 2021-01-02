@@ -25,8 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e295e89e-e72c-4bd1-845f-bc1973c57b71" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +48,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/dist" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="D:\VSProjects\heroku\node_modules\typescript\lib" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/client/dist" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,7 +69,7 @@
       <updated>1609542628439</updated>
       <workItem from="1609542632566" duration="1251000" />
       <workItem from="1609544724506" duration="4513000" />
-      <workItem from="1609576650923" duration="755000" />
+      <workItem from="1609576650923" duration="1326000" />
     </task>
     <servers />
   </component>
@@ -93,17 +95,33 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609544721095">
+    <state x="845" y="70" width="742" height="587" key="#Notifications" timestamp="1609577895615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609544721095" />
+    <state x="845" y="70" width="742" height="587" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609577895615" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1609577946524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609577946524" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609577921422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609577921422" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1609576999447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609576999447" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609577944627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609577944627" />
     <state x="667" y="14" width="585" height="997" key="find.popup" timestamp="1609547209741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="14" width="585" height="997" key="find.popup/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609547209741" />
+    <state x="728" y="381" key="git4idea.rebase.GitRebaseDialog" timestamp="1609577914103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="381" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/-1920.0.1920.1040/160.-480.720.440@0.0.1920.1040" timestamp="1609577914103" />
   </component>
 </project>
