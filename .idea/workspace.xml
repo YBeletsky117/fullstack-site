@@ -25,6 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e295e89e-e72c-4bd1-845f-bc1973c57b71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/shared/layouts/auth-layout/auth-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/auth-layout/auth-layout.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/theme/fullstack-theme-master/add-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/theme/fullstack-theme-master/add-category.html" afterDir="false" />
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609542628439</updated>
       <workItem from="1609542632566" duration="1251000" />
-      <workItem from="1609544724506" duration="2462000" />
+      <workItem from="1609544724506" duration="2855000" />
     </task>
     <servers />
   </component>
