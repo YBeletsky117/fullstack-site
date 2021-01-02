@@ -25,6 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e295e89e-e72c-4bd1-845f-bc1973c57b71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/tsconfig.app.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <updated>1609542628439</updated>
       <workItem from="1609542632566" duration="1251000" />
       <workItem from="1609544724506" duration="4513000" />
-      <workItem from="1609576650923" duration="2625000" />
+      <workItem from="1609576650923" duration="3386000" />
     </task>
     <servers />
   </component>
